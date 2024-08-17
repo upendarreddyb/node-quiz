@@ -1,0 +1,162 @@
+2024-05-10 06:48:41 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 06:48:41 - Started 32376
+2024-05-10 06:49:45 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 06:49:45 - Started 32116
+2024-05-10 06:49:58 - Stopping nodeservice.exe
+2024-05-10 06:49:58 - ProcessKill 32116
+2024-05-10 06:49:58 - Found child process: 15552 Name: conhost.exe
+2024-05-10 06:49:58 - Found child process: 11640 Name: node.exe
+2024-05-10 06:49:58 - Stopping process 15552
+2024-05-10 06:49:58 - Send SIGINT 15552
+2024-05-10 06:49:58 - SIGINT to 15552 failed - Killing as fallback
+2024-05-10 06:49:58 - Stopping process 11640
+2024-05-10 06:49:58 - Send SIGINT 11640
+2024-05-10 06:49:58 - SIGINT to 11640 failed - Killing as fallback
+2024-05-10 06:49:58 - Stopping process 32116
+2024-05-10 06:49:58 - Send SIGINT 32116
+2024-05-10 06:49:58 - SIGINT to 32116 failed - Killing as fallback
+2024-05-10 06:49:58 - Finished nodeservice.exe
+2024-05-10 06:50:08 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 06:50:08 - Started 20608
+2024-05-10 06:56:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 06:56:18 - Started 24864
+2024-05-10 06:57:49 - Stopping nodeservice.exe
+2024-05-10 06:57:49 - ProcessKill 24864
+2024-05-10 06:57:50 - Found child process: 22544 Name: conhost.exe
+2024-05-10 06:57:50 - Found child process: 31284 Name: node.exe
+2024-05-10 06:57:50 - Stopping process 22544
+2024-05-10 06:57:50 - Send SIGINT 22544
+2024-05-10 06:57:50 - SIGINT to 22544 failed - Killing as fallback
+2024-05-10 06:57:50 - Stopping process 31284
+2024-05-10 06:57:50 - Send SIGINT 31284
+2024-05-10 06:57:50 - SIGINT to 31284 failed - Killing as fallback
+2024-05-10 06:57:50 - Stopping process 24864
+2024-05-10 06:57:50 - Send SIGINT 24864
+2024-05-10 06:57:50 - SIGINT to 24864 failed - Killing as fallback
+2024-05-10 06:57:50 - Finished nodeservice.exe
+2024-05-10 06:57:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 06:57:51 - Started 25556
+2024-05-10 07:05:53 - Stopping nodeservice.exe
+2024-05-10 07:05:53 - ProcessKill 25556
+2024-05-10 07:05:53 - Found child process: 11584 Name: conhost.exe
+2024-05-10 07:05:53 - Found child process: 6956 Name: node.exe
+2024-05-10 07:05:54 - Stopping process 11584
+2024-05-10 07:05:54 - Send SIGINT 11584
+2024-05-10 07:05:54 - SIGINT to 11584 failed - Killing as fallback
+2024-05-10 07:05:54 - Stopping process 6956
+2024-05-10 07:05:54 - Send SIGINT 6956
+2024-05-10 07:05:54 - SIGINT to 6956 failed - Killing as fallback
+2024-05-10 07:05:54 - Stopping process 25556
+2024-05-10 07:05:54 - Send SIGINT 25556
+2024-05-10 07:05:54 - SIGINT to 25556 failed - Killing as fallback
+2024-05-10 07:05:54 - Finished nodeservice.exe
+2024-05-10 07:05:55 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 07:05:55 - Started 15496
+2024-05-10 07:09:22 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 07:09:22 - Started 7068
+2024-05-10 07:12:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-10 07:12:32 - Started 11048
+2024-05-10 07:18:30 - Stopping nodeservice.exe
+2024-05-10 07:18:30 - ProcessKill 11048
+2024-05-10 07:18:30 - Found child process: 7272 Name: conhost.exe
+2024-05-10 07:18:30 - Found child process: 14052 Name: node.exe
+2024-05-10 07:18:31 - Stopping process 7272
+2024-05-10 07:18:31 - Send SIGINT 7272
+2024-05-10 07:18:31 - SIGINT to 7272 failed - Killing as fallback
+2024-05-10 07:18:31 - Stopping process 14052
+2024-05-10 07:18:31 - Send SIGINT 14052
+2024-05-10 07:18:31 - SIGINT to 14052 failed - Killing as fallback
+2024-05-10 07:18:31 - Stopping process 11048
+2024-05-10 07:18:31 - Send SIGINT 11048
+2024-05-10 07:18:31 - SIGINT to 11048 failed - Killing as fallback
+2024-05-10 07:18:31 - Finished nodeservice.exe
+2024-05-15 08:17:54 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-15 08:17:54 - Started 6500
+2024-05-15 08:18:53 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-15 08:18:53 - Started 7008
+2024-05-15 21:08:28 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-15 21:08:28 - Started 6264
+2024-05-15 21:12:48 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-15 21:12:48 - Started 8036
+2024-05-16 11:03:42 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-05-16 11:03:42 - Started 14496
+2024-05-16 12:12:42 - Stopping nodeservice.exe
+2024-05-16 12:12:42 - ProcessKill 14496
+2024-05-16 12:12:43 - Found child process: 24328 Name: conhost.exe
+2024-05-16 12:12:43 - Found child process: 21744 Name: node.exe
+2024-05-16 12:12:43 - Stopping process 24328
+2024-05-16 12:12:43 - Send SIGINT 24328
+2024-05-16 12:12:43 - SIGINT to 24328 failed - Killing as fallback
+2024-05-16 12:12:44 - Stopping process 21744
+2024-05-16 12:12:44 - Send SIGINT 21744
+2024-05-16 12:12:44 - SIGINT to 21744 failed - Killing as fallback
+2024-05-16 12:12:44 - Stopping process 14496
+2024-05-16 12:12:44 - Send SIGINT 14496
+2024-05-16 12:12:44 - SIGINT to 14496 failed - Killing as fallback
+2024-05-16 12:12:44 - Finished nodeservice.exe
+2024-06-04 15:44:03 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-04 15:44:03 - Started 16780
+2024-06-04 15:45:21 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-04 15:45:21 - Started 23444
+2024-06-08 07:51:25 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-08 07:51:25 - Started 5272
+2024-06-17 18:30:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-17 18:30:40 - Started 5924
+2024-06-20 13:50:51 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-20 13:50:51 - Started 6900
+2024-06-20 14:17:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-06-20 14:17:00 - Started 20448
+2024-06-20 16:10:41 - Stopping nodeservice.exe
+2024-06-20 16:10:41 - ProcessKill 20448
+2024-06-20 16:10:41 - Found child process: 2064 Name: conhost.exe
+2024-06-20 16:10:41 - Found child process: 18644 Name: node.exe
+2024-06-20 16:10:41 - Stopping process 2064
+2024-06-20 16:10:41 - Send SIGINT 2064
+2024-06-20 16:10:41 - SIGINT to 2064 failed - Killing as fallback
+2024-06-20 16:10:41 - Stopping process 18644
+2024-06-20 16:10:41 - Send SIGINT 18644
+2024-06-20 16:10:41 - SIGINT to 18644 failed - Killing as fallback
+2024-06-20 16:10:41 - Stopping process 20448
+2024-06-20 16:10:41 - Send SIGINT 20448
+2024-06-20 16:10:41 - SIGINT to 20448 failed - Killing as fallback
+2024-06-20 16:10:41 - Finished nodeservice.exe
+2024-07-07 20:31:01 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-07 20:31:01 - Started 5804
+2024-07-07 20:32:18 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-07 20:32:18 - Started 5652
+2024-07-11 00:36:26 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-11 00:36:27 - Started 6740
+2024-07-11 19:23:50 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-11 19:23:50 - Started 6576
+2024-07-21 21:11:52 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-21 21:11:52 - Started 5828
+2024-07-26 21:48:24 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-26 21:48:24 - Started 5944
+2024-07-28 08:25:49 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-28 08:25:49 - Started 5812
+2024-07-28 09:01:29 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-28 09:01:29 - Started 5836
+2024-07-30 19:34:15 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-07-30 19:34:15 - Started 6204
+2024-08-09 07:58:02 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 07:58:02 - Started 15740
+2024-08-09 08:03:32 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 08:03:32 - Started 19444
+2024-08-09 08:36:40 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 08:36:40 - Started 20136
+2024-08-09 08:40:00 - Starting C:\Program Files\nodejs\node.exe  --harmony "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\node-windows\lib\wrapper.js" --file "C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\bin\www" --scriptoptions= --log "nodeservice wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-08-09 08:40:00 - Started 19296
+2024-08-09 08:40:28 - Stopping nodeservice.exe
+2024-08-09 08:40:28 - ProcessKill 19296
+2024-08-09 08:40:28 - Found child process: 16292 Name: conhost.exe
+2024-08-09 08:40:28 - Found child process: 13228 Name: node.exe
+2024-08-09 08:40:28 - Stopping process 16292
+2024-08-09 08:40:28 - Send SIGINT 16292
+2024-08-09 08:40:28 - SIGINT to 16292 failed - Killing as fallback
+2024-08-09 08:40:28 - Stopping process 13228
+2024-08-09 08:40:28 - Send SIGINT 13228
+2024-08-09 08:40:28 - SIGINT to 13228 failed - Killing as fallback
+2024-08-09 08:40:28 - Stopping process 19296
+2024-08-09 08:40:28 - Send SIGINT 19296
+2024-08-09 08:40:28 - SIGINT to 19296 failed - Killing as fallback
+2024-08-09 08:40:28 - Finished nodeservice.exe

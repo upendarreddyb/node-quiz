@@ -1,0 +1,2533 @@
+Port 4000 is already in use
+Port 4000 is already in use
+Port 4000 is already in use
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:513:28)
+    at Protocol._delegateError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:371:10)
+    at Connection._handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:418:18)
+    at Socket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:513:28)
+    at Protocol._delegateError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:371:10)
+    at Connection._handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:418:18)
+    at Socket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:513:28)
+    at Protocol._delegateError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:371:10)
+    at Connection._handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:418:18)
+    at Socket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Connection lost: The server closed the connection.
+    at Protocol.end (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:112:13)
+    at Socket.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:94:28)
+    at Socket.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:526:10)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:513:28)
+    at Protocol._delegateError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.end (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:116:8)
+    at Socket.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:94:28)
+    [... lines matching original stack trace ...]
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+
+Node.js v18.13.0
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:513:28)
+    at Protocol._delegateError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:371:10)
+    at Connection._handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:418:18)
+    at Socket.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+Error: connect ECONNREFUSED ::1:3306
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1487:16)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1218:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1272:10)
+    at Module.load (node:internal/modules/cjs/loader:1081:32)
+    at Module._load (node:internal/modules/cjs/loader:922:12)
+    at Module.require (node:internal/modules/cjs/loader:1105:19)
+    at require (node:internal/modules/cjs/helpers:103:18) {
+  errno: -4078,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '::1',
+  port: 3306,
+  fatal: true
+}
+
+Node.js v18.13.0
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+node:events:496
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+Emitted 'error' event on Connection instance at:
+    at Connection._handleProtocolError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:423:8)
+    at Protocol.emit (node:events:518:28)
+    at Protocol._delegateError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:398:10)
+    at Protocol.handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:371:10)
+    at Connection._handleNetworkError (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:418:18)
+    at Socket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:169:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:128:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  errno: -4077,
+  code: 'ECONNRESET',
+  syscall: 'read',
+  fatal: true
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
+C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:14
+    if (error) throw error;
+               ^
+
+AggregateError
+    at internalConnectMultiple (node:net:1114:18)
+    at afterConnectMultiple (node:net:1667:5)
+    --------------------
+    at Protocol._enqueue (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\protocol\Protocol.js:51:23)
+    at Connection.connect (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\node_modules\mysql\lib\Connection.js:116:18)
+    at Object.<anonymous> (C:\React js\Projects(upr-praneeth)\node-expressjs\quiz-api\db.js:13:12)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at require (node:internal/modules/helpers:176:18) {
+  code: 'ECONNREFUSED',
+  fatal: true,
+  [errors]: [
+    Error: connect ECONNREFUSED ::1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '::1',
+      port: 3306
+    },
+    Error: connect ECONNREFUSED 127.0.0.1:3306
+        at createConnectionError (node:net:1634:14)
+        at afterConnectMultiple (node:net:1664:40) {
+      errno: -4078,
+      code: 'ECONNREFUSED',
+      syscall: 'connect',
+      address: '127.0.0.1',
+      port: 3306
+    }
+  ]
+}
+
+Node.js v20.11.1
